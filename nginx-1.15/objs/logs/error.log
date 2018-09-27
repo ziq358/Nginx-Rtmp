@@ -1,0 +1,10 @@
+2018/09/27 12:53:02 [emerg] 11132#3960: CreateFile() "F:\nginx-rtmp\nginx-1.15\objs/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2018/09/27 12:53:25 [emerg] 10788#9872: CreateDirectory() "temp/hls" failed (3: The system cannot find the path specified)
+2018/09/27 12:53:55 [emerg] 10620#7572: CreateDirectory() "temp/hls" failed (3: The system cannot find the path specified)
+2018/09/27 12:54:30 [notice] 8996#1100: using the "select" event method
+2018/09/27 12:54:30 [notice] 8996#1100: nginx/1.15.4
+2018/09/27 12:54:30 [info] 8996#1100: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2018/09/27 12:54:30 [notice] 8996#1100: start worker processes
+2018/09/27 12:54:30 [notice] 8996#1100: start worker process 8820
+2018/09/27 12:54:31 [notice] 8820#8260: nginx/1.15.4
+2018/09/27 12:54:31 [info] 8820#8260: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
